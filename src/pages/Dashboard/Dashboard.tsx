@@ -22,7 +22,8 @@ import {
   Users, 
   Wallet, 
   Bell, 
-  Settings
+  Settings,
+  Clock
 } from "lucide-react";
 import { toast } from "@/components/ui/use-toast";
 
